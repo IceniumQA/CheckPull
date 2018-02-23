@@ -1,0 +1,45 @@
+{
+  "ProjectName": "aaaa",
+  "ProjectGuid": "35c5acaa-7d08-4d5d-a290-f840d41145c9",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.aaaa",
+  "DisplayName": "aaaa",
+  "Author": "",
+  "Description": "aaaa",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "6.4.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{a9c1fae0-02c4-4deb-b49c-11d1ac2f14e2}",
+  "WP8ProductID": "{e84571a0-752e-484e-bffc-274945d974bb}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.aaaa",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
